@@ -55,9 +55,7 @@ A live demo of the site can be accessed [here](#).
    ```bash
    cp .env.example .env
    ```
-
    Update the .env file with your database and other configurations:
-
    ```bash
    APP_NAME=FoodDelivery
    APP_URL=http://
