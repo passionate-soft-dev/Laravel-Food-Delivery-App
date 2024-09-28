@@ -54,9 +54,11 @@ A live demo of the site can be accessed [here](#).
 3. **Environment Setup** Copy the .env.example file to create your .env configuration:
    ```bash
    cp .env.example .env
+   ```
 
    Update the .env file with your database and other configurations:
 
+   ```bash
    APP_NAME=FoodDelivery
    APP_URL=http://
 
@@ -66,6 +68,7 @@ A live demo of the site can be accessed [here](#).
    DB_DATABASE=your_database_name
    DB_USERNAME=your_username
    DB_PASSWORD=your_password
+   ```
 
 4. **Generate Application Key**
    ```bash
